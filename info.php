@@ -1,1 +1,1 @@
-webserver auto01
+this is automation server
